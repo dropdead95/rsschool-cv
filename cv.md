@@ -1,9 +1,8 @@
 # Andrey Lisovskiy
-
----
 ### Frontend Developer
 
 ---
+
 ## Contact details
  * **Phone:** *+375-33-676-63-37*
  * **E-mail:** *mitolcore1234@gmail.com*
