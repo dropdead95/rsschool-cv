@@ -1,1 +1,1 @@
-## [rsschool-cv](https://dropdead95.github.io/rsschool-cv/cv)
+## [rsschool-cv](https://dropdead95.github.io/rsschool-cv/)
